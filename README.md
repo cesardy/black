@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/525544876071">
+  <a href="https://wa.me/573176084059">
     <img title="Autor" src="https://img.shields.io/badge/CARLOS OFC-black?style=for-the-badge&logo=whatsapp">
   </a>
   <a href="https://instagram.com/_carlitos.zx">
@@ -152,4 +152,4 @@ npm start
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-🔋 *Powered by* [**THE LEGENDS** ⚡](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w)
+🔋 *Powered by* [**THE LEGENDS** ⚡](https://whatsapp.com/channel/0029Vai28FR
