@@ -126,7 +126,7 @@ npm start
 
 | APP | TIPO | ENLACE |
 |------|-------------|--------|
-| 📱 WhatsApp Canal Oficial | Noticias y actualizaciones | [¡Aquí!](https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w) |
+| 📱 WhatsApp Canal Oficial | Noticias y actualizaciones | [¡Aquí!](https://whatsapp.com/channel/00) |
 | 👥 Grupo de Soporte | Comunidad y ayuda | [¡Aquí!](https://chat.whatsapp.com/GrcUknwrJbNIXIIrbsuXc0) |
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
