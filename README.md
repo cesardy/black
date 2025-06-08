@@ -104,7 +104,7 @@ apt update && apt upgrade
 ```
 
 ```bash
-git clone https://github.com/thecarlos19/black-clover-MD && cd black-clover-MD
+git clone https://github.com/cesardy/black && cd black
 ```
 
 ```bash
